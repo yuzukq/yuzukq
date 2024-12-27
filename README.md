@@ -1,4 +1,6 @@
 ## Hi there 👋
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuzukq&theme=synthwave)
+
 <p align="left"> 
   
   <img alt="Top Langs" height="150px" src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=yuzukq" />
