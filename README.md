@@ -1,16 +1,16 @@
 ## Hi there 👋
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuzukq&theme=synthwave)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuzukq&theme=graywhite)
 
 <p align="left"> 
   
-  <img alt="Top Langs" height="150px" src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=yuzukq" />
-  <img alt="github stats" height="150px" src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=yuzukq" />
+  <img alt="Top Langs" height="150px" src="(http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuzukq&theme=graywhite" />
+  <img alt="github stats" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuzukq&theme=graywhite" />
 </p>
 
 
 <!--
 **yuzukq/yuzukq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://github-stats-evirunurm.vercel.app/api/languages.js?username=yuzukq
+
 
 <p align="left"> 
   
