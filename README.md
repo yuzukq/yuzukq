@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuzukq&theme=graywhite)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuzukq&theme=graywhite)
-![](https://github-stats-evirunurm.vercel.app/api/languages.js?username=yuzukq)
+![](https://github-stats-evirunurm.vercel.app/api/languages.js?username=yuzukq&theme=graywhite)
 
 
 
