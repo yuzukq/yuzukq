@@ -1,4 +1,4 @@
-## Hi there 👋　My name is Yuzu.
+## Hi there 👋 my name is Yuzu.
 I am a computer science student. I love virtual reality contents.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuzukq&theme=graywhite)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuzukq&theme=graywhite)
