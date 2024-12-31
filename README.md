@@ -6,6 +6,6 @@ I am a computer science student. I love virtual reality contents.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim&theme=light" />
+    <img src="https://skillicons.dev/icons?i=arduino,vscode,blender,docker,bsd,debian,latex,rust,c&theme=light" />
   </a>
 </p>
