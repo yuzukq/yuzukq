@@ -10,7 +10,7 @@ I am studying computer science at university. VR content and cycling are my hobb
 
 ---
 
-<!-- 
+
 ### Stack 
 <img src="https://skillicons.dev/icons?i=vscode,notion,latex,github,git,blender,unity,discord&theme=dark&perline=10" /> <br /><br />
 
@@ -20,7 +20,7 @@ I am studying computer science at university. VR content and cycling are my hobb
   
 ### Traning
 
-<img src="https://skillicons.dev/icons?i=nextjs,react&theme=dark&perline=15" /> <br /><br /> -->
+<img src="https://skillicons.dev/icons?i=nextjs,react&theme=dark&perline=15" /> <br /><br /> 
 
 
 
