@@ -10,12 +10,12 @@ I am studying computer science at university. VR content and cycling are my hobb
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuzukq&count_private=true&show_icons=true&theme=transparent" />
 </a>
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzukq&count_private=true&theme=transparent" />
-</a> -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzukq&count_private=true&theme=transparent" />
+</a> 
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuzukq&count_private=true&theme=transparent" />
-</a>
+</a> -->
 
 ---
 
