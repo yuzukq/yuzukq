@@ -3,10 +3,10 @@
 I am studying computer science at university. VR content and cycling are my hobbies.
 
 ---
-![Yuzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzukq&show_icons=true&theme=transparent)
+![Yuzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzukq&show_icons=true&count_private=true&theme=transparent)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuzukq&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuzukq&count_private=true&theme=transparent)
 
 ---
 
