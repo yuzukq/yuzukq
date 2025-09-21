@@ -9,11 +9,18 @@ I am studying computer science at university. VR content and cycling are my hobb
     <img src="https://github-readme-stats.vercel.app/api?username=yuzukq&count_private=true&show_icons=true&theme=transparent" />
   </a>
   <a>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuzukq&count_private=true&theme=transparent" />
+    <img src= "https://github.com/yuzukq/yuzukq/blob/main/approve.png?raw=true">
   </a>
+
 </div>
 
 ---
+
+<!-- TOP言語のヤツ -->
+
+<!-- <a>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuzukq&count_private=true&theme=transparent" />
+</a> -->
 
 <!--
 ### Stack 
@@ -26,6 +33,3 @@ I am studying computer science at university. VR content and cycling are my hobb
 ### Traning
 
 <img src="https://skillicons.dev/icons?i=nextjs,react&theme=dark&perline=15" /> <br /><br /> -->
-
-
-
