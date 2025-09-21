@@ -4,14 +4,18 @@ I am studying computer science at university. VR content and cycling are my hobb
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=yuzukq&count_private=true&show_icons=true&theme=transparent" />
-  </a>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">
+  <div class="status" style="display: flex; flex-direction: column; gap: 10px;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=yuzukq&count_private=true&show_icons=true&theme=transparent" />
+    </a>
+    <a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzukq&size_weight=0.5&count_weight=0.5&theme=transparent">
+    </a>
+  </div>
   <a>
-    <img src="https://github.com/yuzukq/yuzukq/blob/main/approve.png?raw=true" hight="150" >
+    <img src="https://github.com/yuzukq/yuzukq/blob/main/approve.png?raw=true" hight="400" width ="400" >
   </a>
-
 </div>
 
 ---
