@@ -9,7 +9,7 @@ I am studying computer science at university. VR content and cycling are my hobb
     <img src="https://github-readme-stats.vercel.app/api?username=yuzukq&count_private=true&show_icons=true&theme=transparent" />
   </a>
   <a style="flex: 1; min-width: 200px;">
-    <img src="https://github.com/yuzukq/yuzukq/blob/main/approve.png?raw=true" height="400" width="400">
+    <img src="https://github.com/yuzukq/yuzukq/blob/main/approve.png?raw=true" height="300" width="300">
   </a>
 </div>
 
