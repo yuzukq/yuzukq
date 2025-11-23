@@ -7,11 +7,11 @@ I am studying computer science at university.
 - 🎮 My favorite game is the **Armored Core** series.
 - 📝 I write about tech and hobbies on my **[Blog](https://www.yuzu621.tech/blog)**.
 
----
+
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; min-width: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=yuzukq&count_private=true&show_icons=true&theme=transparent&hide_border=true" alt="Yuzu's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=yuzukq&count_private=true&show_icons=true&theme=transparent" alt="Yuzu's GitHub Stats"/>
   </a>
   <a style="flex: 1; min-width: 200px; text-align: center;">
     <img src="https://github.com/yuzukq/yuzukq/blob/main/approve.png?raw=true" height="250" width="250" alt="Yuzu's Icon">
