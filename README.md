@@ -3,7 +3,7 @@
 I am studying computer science at university.
 
 ### 🔧 About Me
-- 🌱 My hobbies include **VR**, **Cycling**, **Custom Keyboards**, and **Tinkering with Tech**.
+- 🌱 My hobbies include **VR**, **Cycling**, **Linux**,**Custom Keyboards**, and **Tinkering with Tech**.
 - 🎮 My favorite game is the **Armored Core** series.
 - 📝 I write about tech and hobbies on my **[Blog](https://www.yuzu621.tech/blog)**.
 
@@ -24,9 +24,11 @@ I am studying computer science at university.
 Since I mostly do desk work, I aim to ride **40km per week**!
 
 <div align="center">
-  <a href="https://www.strava.com/athletes/yuzu621">
-    <img src="https://raw.githubusercontent.com/yuzukq/strava-status-wiget/main/strava-stats.svg" alt="Strava Stats">
-  </a>
+
+| 4-Week Comparison | Monthly Goal & Gear |
+| :---: | :---: |
+| [![Comparison](https://raw.githubusercontent.com/yuzukq/strava-status-wiget/main/widgets/four_week_comparison.svg)](https://www.strava.com/athletes/yuzu621) | [![Goal](https://raw.githubusercontent.com/yuzukq/strava-status-wiget/main/widgets/monthly_goal.svg)](https://www.strava.com/athletes/yuzu621) <br> [![Gear](https://raw.githubusercontent.com/yuzukq/strava-status-wiget/main/widgets/favorite_gear.svg)](https://www.strava.com/athletes/yuzu621)  |
+
   <p>
     This is a visualizer widget using the Strava API. <br>
     You can use it from <a href="https://github.com/yuzukq/strava-status-wiget">here</a>!
